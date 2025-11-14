@@ -9,15 +9,15 @@
 
 ###
 
-<img align="right" height="220" src="https://i.makeagif.com/media/11-03-2025/AgtN8z.gif"  />
+<img align="right" height="220" src="https://i.pinimg.com/originals/02/a0/c1/02a0c19eb362eb7b84e596d21146ccfe.gif"  />
 
 ###
 
 <div align="left">
-   <a href="https://www.instagram.com/medhedibelghith?igsh=czN2ZGF2aGd3OHhz">  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /> </a>
+   <a href="https://www.instagram.com/michael_riahi/">  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /> </a>
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
- <a href="https://www.linkedin.com/in/mohamed-el-hedi-belghith/"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> </a>
+ <a href="https://www.linkedin.com/in/yassine-riahi-22b839398//"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> </a>
 </div>
 
 ###
@@ -44,7 +44,7 @@
 
 <div style="text-align: center; margin-bottom: 30px;">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=hedi-bel&theme=onedark&no-frame=true&no-bg=false&margin-w=10&margin-h=10" 
+    src="https://github-profile-trophy.vercel.app/?username=Mika-dono&theme=onedark&no-frame=true&no-bg=false&margin-w=10&margin-h=10" 
     alt="hedi-bel trophies"  
     style="max-width: 80%; height: auto;"
   />
@@ -57,6 +57,6 @@
 
 
 <div style ="display : flex ; justify-content: center; ">
-  <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=hedi-bel&" alt="hedi-bel" /></p>
-  <img align="left" height="250px"   src="https://i.pinimg.com/736x/e6/28/b9/e628b914a1187fd126e26f152177800e.jpg"  />
+  <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Mika-dono&" alt="Mika" /></p>
+  <img align="left" height="250px"   src="https://giffiles.alphacoders.com/360/36000.gif"  />
 </div>
